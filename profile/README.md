@@ -1,7 +1,7 @@
 #  EmojiDAO
 
 * [Unisymbol - Parent DAO/organization](https://github.com/Unisymbol)
-* [Our fork responsible for introducing brand new emojis to systems](https://github.com/TheEmojiDAO/noto-emoji), such as the bisexual flag
+* [Our fork responsible for introducing brand new emojis to systems](https://github.com/TheEmojiDAO/noto-emoji), such as the bisexuality <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> flag
 
 ----
 
@@ -13,4 +13,4 @@
 "Clocks are free to express themselves, but people aren’t."
 - More Pride Emojis / [TannerMarino](https://github.com/tannn).
 <img width="400px" src="https://moreprideemojis.com/images/AccordingToUnicode/Large/FlagsAccordingToUnicode-68.png">
-"Paperclips have better representation than people’s sexualities. This needs to change." - More Pride Emojis / [TannerMarino](https://github.com/tannn).
+"Paperclips have better representation than people’s sexualities. This needs to change." - More Pride Emojis, [TannerMarino](https://github.com/tannn/) .
