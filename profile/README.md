@@ -1,5 +1,7 @@
 #  EmojiDAO
 
+Responsible to introducing brand new emojis to systems
+
 * [Unisymbol - Parent DAO/organization](https://github.com/Unisymbol)
 * [Our fork responsible for introducing brand new emojis to systems](https://github.com/TheEmojiDAO/noto-emoji), such as the bisexuality <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> flag
 
